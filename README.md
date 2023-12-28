@@ -11,14 +11,14 @@
 * Robot Operation System (ROS_1)
 * Python 2.7
 
-## 於(程式)資歷夾中具以下兩種資料夾 ：
+## (程式)資歷夾中具以下兩種資料夾 ：
 - launch
 - ros_robotarm_objdetect
   
-## 於(launch)資歷夾中具以下檔案 ：
+## (launch)資歷夾中具以下檔案 ：
 - **Arm_camera_start.launch** ： 用來啟動各個軟、硬體的程式，其中硬體包括(協作型機器手臂、Intel realsense D435i)，軟體包括(Darknet_ROS)。
 
-## 於(ros_robotarm_objdetect)資歷夾中具以下檔案 ：
+## (ros_robotarm_objdetect)資歷夾中具以下檔案 ：
 * **程式** ：
 - **Multi-execute.sh**                        ：  啟動下列程式碼，此程式中具備兩種模式，(1)test為確認相機視角是否正確，(2)voice為本專題的主體使用模式，因此使用者須自行編輯程式碼來添加、去除註解字元(#)。
 - **pose_action_client_finger_cartesian.py**  ：  驅動協作型機器手臂程式。
