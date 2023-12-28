@@ -46,10 +46,10 @@
 Please cite the following if you make use of the code.
 
 '''
-@inproceedings{kye2020meta,
-  title={Preliminary Implementation of Grasping Operation by a Collaborative Robot Arm: Using a Ball as Example},
-  author={Wen-Chang Cheng,Chien-Hung Lin, Cheng-Yi Shi,Hung-Chou Hsiao,Chun-Lung Chang},
-  booktitle={TAAI},
-  year={2021}
-}
+  @inproceedings{kye2020meta,
+    title={Preliminary Implementation of Grasping Operation by a Collaborative Robot Arm: Using a Ball as Example},
+    author={Wen-Chang Cheng,Chien-Hung Lin, Cheng-Yi Shi,Hung-Chou Hsiao,Chun-Lung Chang},
+    booktitle={TAAI},
+    year={2021}
+  }
 '''
