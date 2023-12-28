@@ -19,7 +19,7 @@
 - **Arm_camera_start.launch** ： 用來啟動各個軟、硬體的程式，其中硬體包括(協作型機器手臂、Intel realsense D435i)，軟體包括(Darknet_ROS)。
 
 ## (ros_robotarm_objdetect)資歷夾中具以下檔案 ：
-* **程式** ：
+1. **程式** ：
 - **Multi-execute.sh**                        ：  啟動下列程式碼，此程式中具備兩種模式，(1)test為確認相機視角是否正確，(2)voice為本專題的主體使用模式，因此使用者須自行編輯程式碼來添加、去除註解字元(#)。
 - **pose_action_client_finger_cartesian.py**  ：  驅動協作型機器手臂程式。
 - **voice_detect.py**                         ：  偵測語音程式。
@@ -27,7 +27,7 @@
 - **camera_tf_broadcaster.py**                ：  定義相對座標程式。
 - **object_detect.py**                        ：  座標轉換程式(點擊螢幕版本)。
 
-* **音檔** ：
+2. **音檔** ：
 - **ball.mp3**  ：  尋問使用者是否要進行夾取物件(球)。
 - **bottle.mp3**：  尋問使用者是否要進行夾取物件(寶特瓶)。
 - **cup.mp3**   ：  尋問使用者是否要進行夾取物件(杯子)。
