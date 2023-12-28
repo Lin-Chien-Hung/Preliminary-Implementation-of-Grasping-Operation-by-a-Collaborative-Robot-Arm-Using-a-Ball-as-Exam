@@ -36,8 +36,8 @@
 - **ok.mp3**    ：  回應[好的]。
   
 ## 操作流程：
-### 1. 開啟兩個terminal，分別進入launch及ros_robotarm_objdetect資料夾，輸入以下指令：roslaunch Arm_camera_start.launch 及 source Multi-execute.sh。
+1. 開啟兩個terminal，分別進入launch及ros_robotarm_objdetect資料夾，輸入以下指令：roslaunch Arm_camera_start.launch 及 source Multi-execute.sh。
 
-### 2. 語音輸入的語音具備**七項功能**：球、杯子、瓶子、放開、抓住、放回去、離開。
+1. 語音輸入的語音具備**七項功能**：球、杯子、瓶子、放開、抓住、放回去、離開。
 
-### 3. 當使用者說出要夾取的物件名稱後，系統會再次詢問此物件，需再次回應語音：是、不是。
+1. 當使用者說出要夾取的物件名稱後，系統會再次詢問此物件，需再次回應語音：是、不是。
