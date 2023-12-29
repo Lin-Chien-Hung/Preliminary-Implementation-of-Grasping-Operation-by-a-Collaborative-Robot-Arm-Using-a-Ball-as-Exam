@@ -42,7 +42,7 @@
 
 3. 當使用者說出要夾取的物件名稱後，系統會再次詢問此物件，需再次回應語音：是、不是。
 
-## Citation：
+## 引文(Citation)：
 Please cite the following if you make use of the code.
 
 >@inproceedings{kye2020meta,
